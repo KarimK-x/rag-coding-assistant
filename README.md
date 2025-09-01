@@ -134,13 +134,13 @@ Assistant: [Provides comprehensive explanation with examples]
 
 - **`GradioDeployedCodingAssistant.ipynb`**: **📓 Complete tutorial notebook** - Interactive walkthrough covering the entire system from setup to deployment. Perfect for understanding the architecture and seeing live demonstrations.
 
+## 🔧 Configuration
+
 ### Configuration Files
 
 - **`requirements.txt`**: Python dependencies
 - **`setup_env.py`**: Environment setup for devs
 - **`pyproject.toml`**: Modern Python packaging
-
-## 🔧 Configuration
 
 ### Model Configuration
 The system uses Microsoft's Phi-3.5-mini-instruct model by default. To use a different model:
