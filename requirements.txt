@@ -1,0 +1,20 @@
+# Core dependencies
+numpy
+pandas
+
+# LangChain and LangGraph
+langchain-community
+langchain-core
+langgraph
+
+# Vector database and embeddings
+chromadb
+transformers
+torch
+
+# UI framework
+gradio
+
+# Optional: For enhanced functionality
+jupyter
+ipykernel
