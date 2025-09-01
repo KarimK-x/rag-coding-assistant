@@ -1,0 +1,7 @@
+# Override GitHub language detection for Jupyter notebooks
+*.ipynb linguist-documentation
+
+# Mark the main source code directories as the primary language
+src/** linguist-language=Python
+scripts/** linguist-language=Python
+tests/** linguist-language=Python
